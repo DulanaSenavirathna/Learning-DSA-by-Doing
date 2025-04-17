@@ -6,7 +6,6 @@
 **Return** the largest number in the array.
 
 Example:
-```js
 Input: [3, 7, 2, 9, 5]  
 Output: 9
 
